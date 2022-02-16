@@ -2,8 +2,8 @@
 
 Exercício simples para trabalhar os conceitos de Herança e Polimorfismo em C#.
 
-O sistema é utilizado para cadastrar trabalhadores e fazer o cálculo de seu salário, utilizando como parâmetros de entrada o valor de sua hora trabalhada e quantas horas o trabalhador fez no período.
-Se o trabalhador for tercerizado (outsourced), o sistema faz o cálculo anterior com acréscimo de 110% do valor que o funcionário teve de despesas no período.
+O sistema é utilizado para cadastrar produtos e ao fim imprimir o TAG do mesmo (contendo as informações cadastradas).
+Os produtos podem ser to tipo Comum, Importados ou Usados, cada qual com suas características.
 
 # Conceitos Utilizados:
 
@@ -21,3 +21,5 @@ Se o trabalhador for tercerizado (outsourced), o sistema faz o cálculo anterior
 	</li>
 	<li>Estruturas Condicionais</li>
 </ol>
+
+![Program](https://user-images.githubusercontent.com/35302072/154178611-8b6364af-bd9b-4712-bd9e-8debc374e574.PNG)
