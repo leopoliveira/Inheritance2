@@ -1,0 +1,8 @@
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\Inheritance2\Inheritance2\bin\Debug\Inheritance2.exe.config
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\Inheritance2\Inheritance2\bin\Debug\Inheritance2.exe
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\Inheritance2\Inheritance2\bin\Debug\Inheritance2.pdb
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csproj.AssemblyReference.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csproj.CoreCompileInputs.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\Inheritance2\Inheritance2\obj\Debug\Inheritance2.exe
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\Inheritance2\Inheritance2\obj\Debug\Inheritance2.pdb
